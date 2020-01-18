@@ -201,7 +201,7 @@
 	<div class="card" id="card">
 		<div class="card__header ov-hidden">
 			<div class="card__img ov-hidden">
-				<img src="./img/chip.png" alt="Card chip">
+				<img src="./img/chip.PNG" alt="Card chip">
 			</div>
 			{#if logo !== ''}
 				<div class="card__img">
